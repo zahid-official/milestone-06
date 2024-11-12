@@ -37,7 +37,4 @@ Key ES6 Features Used in the Pet Adoption Platform Development:
 
 ## Live Demo of the Pet Adoption Platform
 
-
-**Github:** https://github.com/programming-hero-web-course2/b10a6-pet-adoption-zahid-official
-
 **Live Website:** https://peddy-official.surge.sh/
